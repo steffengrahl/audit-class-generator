@@ -20,7 +20,7 @@ Here are some todo items for this project:
   (but clarify that it is still an experimental feature.)
   (Steffen is taking this on ... )
 * Add some more tests for the last couple features if needed. And run them.
-* Test the whole workflow again
+* Test the whole workflow again using a branch of Tag Monk. 
 * Publicize this via the Twig stack trace dumper readme and vice versa
 * Publicize it a little more via a burner Reddit account on the PHP Reddit forum
 * Per Steffen Grahl's good advice, use a strategy pattern and a config flag
