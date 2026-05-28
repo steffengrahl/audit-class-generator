@@ -25,3 +25,4 @@ Here are some todo items for this project:
 * Publicize it a little more via a burner Reddit account on the PHP Reddit forum
 * Per Steffen Grahl's good advice, use a strategy pattern and a config flag
   to allow users to specify whether we use regex or the php 8.4 html 5 parser
+* Give a lightning talk at PHP Day in Verona or another venue to show this off 
