@@ -13,6 +13,11 @@
             "email": "patrick.maynard@markenfilm-space.de",
             "homepage": "http://home.patrickmaynard.com",
             "role": "Developer"
+        },
+        {
+            "name": "Steffen Grahl",
+            "homepage": "https://steffengrahl.de",
+            "role": "Contributor"
         }
     ],
     "require": {
